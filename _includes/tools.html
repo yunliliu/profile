@@ -1,0 +1,22 @@
+<section id="tools">
+  <div class="container portfolio-flex-grid">
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2>Projects</h2>
+        <hr class="star-primary">
+      </div>
+    </div>
+    <div class="portfolio-flex-row">
+      {% for tool in site.pages %}
+      <div class="card" style="width: 45rem;">
+        <img src="img/tools/{{ tool.image }}" class="img-responsive" alt="{{ tool.name }}" style="min-width:100%; min-height:300px; object-fit:contain;">
+        <div class="card-body">
+          <h5 class="card-title">{{ tool.name }}</h5>
+          <p class="card-text">{{tool.description}}</p>
+          <a href="{{ tool.link }}" class="btn btn-primary">Visit Site</a>
+        </div>
+      </div>
+      {% endfor %}
+    </div>   
+  </div>
+</section>

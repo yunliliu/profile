@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2020-09-18
+img: k8s.jpg
+alt: kubernetes
+project-date: April 2020
+# client: Start Bootstrap
+category: Devops
+description: Strong understanding of key concepts such as pods, services, and scaling, and hands-on experience with various tools including Helm and Kustomize. Familiar with cloud-native practices and experienced in working with cloud providers such as AWS and GCP. In-depth knowledge of Kubernetes networking and security, including network policies, ingress controllers, and TLS certificate management. Skilled in monitoring and logging, utilizing tools such as Prometheus and Fluentd. Experienced in continuous integration and delivery with Jenkins and GitLab. Adept at troubleshooting and performance tuning, ensuring high availability and scalability of applications. Strong team player and excellent communicator, adept at collaborating with developers and stakeholders to deliver effective solutions.
+---

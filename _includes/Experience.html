@@ -1,0 +1,32 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous" />
+<section class="section gray-bg" id="resume">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+            <h2>Experience</h2>
+            <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 m-15px-tb">
+                <div class="resume-box">
+                    <ul>
+                        {% for exp in site.experiences %}
+                        <li>
+                            <div class="icon">
+                                <i class="fas fa-user-graduate"></i>
+                            </div>
+                            {% for exp in exp.experiences %}
+                            <span class="time">{{ exp.time }}</span>
+                            <h5>{{ exp.title }}</h5>
+                            <p>{{ exp.description }}</p>
+                            {% endfor %}
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            </div>
+            <!-- Repeat the above structure for a different category of experiences -->
+        </div>
+    </div>
+</section>

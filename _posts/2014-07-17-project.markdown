@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 2
+date: 2019-07-17
+img: Docker.png
+alt: docker
+project-date: April 2019
+# client: Start Bootstrap
+category: Devops
+description:  Strong understanding of Docker concepts such as images, containers, networks, and volumes. Skilled in creating and managing Dockerfiles, as well as utilizing Docker Compose for multi-container applications. Familiar with Docker security best practices and experienced in securing containers and orchestrating secure deployments with Kubernetes. Adept at continuous integration and delivery, utilizing tools such as Jenkins and GitLab to streamline the development pipeline.
+---

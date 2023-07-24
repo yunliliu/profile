@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2021-07-14
+img: ansible.png
+alt: ansible
+project-date: April 2021
+# client: Start Bootstrap
+category: Devops
+description: Strong understanding of Ansible playbooks, modules, and inventory management. Skilled in using Ansible for provisioning and managing infrastructure, as well as deploying and configuring applications. Adept at using Ansible in conjunction with other tools such as Docker and AWS. Familiar with best practices for security and efficiency in Ansible, including idempotence and task delegation.
+---

@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 6
+date: 2022-07-15
+img: terraform.png
+alt: terraform
+project-date: April 2022
+# client: Start Bootstrap
+category: Devops
+description: Strong understanding of Terraform modules, providers, and state management. Skilled in using Terraform to provision and manage infrastructure resources on multiple cloud platforms such as AWS, GCP, and Azure. Adept at using Terraform in a team environment, utilizing features such as workspaces and remote state. Familiar with best practices for security and efficiency in Terraform, including using version control and modules for reusable code.
+---

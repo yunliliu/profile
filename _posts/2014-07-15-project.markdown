@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 4
+date: 2018-07-15
+img: aws.png
+alt: aws
+project-date: April 2018
+# client: Start Bootstrap
+category: Cloud
+description: Strong knowledge of core AWS services such as EC2, S3, and RDS. Skilled in using AWS CLI and AWS Management Console for administration tasks. Experienced in designing and implementing highly available and scalable infrastructure using AWS services. Adept at migrating applications to AWS, utilizing services such as AWS Elastic Beanstalk and AWS CloudFormation. Familiar with security best practices and experienced in securing AWS infrastructure using services such as AWS IAM and AWS Security Groups.
+---

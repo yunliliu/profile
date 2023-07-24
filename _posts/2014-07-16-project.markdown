@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 3
+date: 2016-07-16
+img: Linux.png
+alt: linux
+project-date: April 2016
+# client: Start Bootstrap
+category: Cloud/Linux
+description: Strong knowledge of Linux system architecture, networking, and security. Skilled in scripting languages such as Bash and Python for automating tasks and solving complex problems. Proficient in package management, system monitoring, and performance tuning. Experienced in working with virtualization technologies such as KVM and Docker. Adept at providing technical support, troubleshooting and problem-solving, and ensuring high availability of Linux systems.
+---
